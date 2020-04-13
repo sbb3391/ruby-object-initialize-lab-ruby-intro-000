@@ -13,3 +13,5 @@ def initialize(name,breed)
   @breed = breed
   breed = "Mutt"
 end
+
+end
